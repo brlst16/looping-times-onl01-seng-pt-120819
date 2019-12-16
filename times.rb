@@ -7,8 +7,11 @@
 counter = 0 
 
 7.times do
-  using_times
+  def using_times
+    puts "Wingardium Leviosa"
     counter += 1 
+  end
+    #counter += 1 
   end
 
 
