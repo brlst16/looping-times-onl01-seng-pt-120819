@@ -12,7 +12,6 @@ counter = 0
   #  counter += 1 
   #end
 
-7.times do
-  puts "Wingardium Leviosa"
-end
+def using_times(number)
+  
 
