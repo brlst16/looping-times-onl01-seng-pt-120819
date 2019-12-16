@@ -7,12 +7,12 @@
 counter = 0 
 
 #7.times do
-  def using_times
-    puts "Wingardium Leviosa"
-    counter += 1 
-  end
-    #counter += 1 
-  end
+  #def using_times
+  #  puts "Wingardium Leviosa"
+  #  counter += 1 
+  #end
 
-
+7.times do
+  puts "Wingardium Leviosa"
+end
 
