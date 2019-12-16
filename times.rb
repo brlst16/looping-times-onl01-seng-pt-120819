@@ -13,5 +13,5 @@ counter = 0
   #end
 
 def using_times(number)
-  
+  7.times do 
 
